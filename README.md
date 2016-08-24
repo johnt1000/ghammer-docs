@@ -1,5 +1,3 @@
-# GHammer Docs
-
 # EN
 ## Introduction
 Documents generated in the implementation of GHammer tool. All documents have been produced from the research to the work of completing the course in Computer Forensics, taught in the years 2015 and 2016, the University Potiguar (UNP). The author of the project is the student Jônatas Rodrigues Alves <jonatas.rodriguess@gmail.com> with the guidance of Professor Jefferson Cunha <jeffersonfilho@gmail.com>.
